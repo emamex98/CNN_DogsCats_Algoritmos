@@ -1,0 +1,7 @@
+numpy
+cv2
+os
+tqdm
+matplotlib
+tensorflow
+tflearn
